@@ -1,1 +1,5 @@
-Hello World! 
+Atividade de Construção de Software. 
+
+Primeiros comandos utilizando git/github. 
+
+:)
